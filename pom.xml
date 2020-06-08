@@ -115,10 +115,10 @@
 					</execution>
 				</executions>
 				<configuration>
-					<repository>pedrooliveira/employees</repository>
+					<repository>pedrooliveira/employer</repository>
 					<tag>${project.version}</tag>
 					<buildArgs>
-						<JAR_FILE>spring-docker-ibyte.jar</JAR_FILE>
+						<JAR_FILE>employer-0.0.1-SNAPSHOT.jar</JAR_FILE>
 					</buildArgs>
 				</configuration>
 			</plugin>
